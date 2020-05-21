@@ -620,7 +620,7 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   Automattic-Tracks-iOS:
-    :commit: 793be429405cbf78d6ed7bff4216fb7f65453c83
+    :commit: d0364106f354c0c2a9407dc74c14d4d2c6f5e4f2
     :git: https://github.com/Automattic/Automattic-Tracks-iOS.git
   FSInteractiveMap:
     :git: https://github.com/wordpress-mobile/FSInteractiveMap.git
